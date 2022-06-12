@@ -1,0 +1,24 @@
+{
+  "name": "Swapped Finance",
+  "logoURI": "",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 8080,
+      "address": "0x0b215D027acA4517d6d2d4035298dD01f6F7Be26",
+      "name": "Swapped Finance Token",
+      "symbol": "SWPD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/vanshtah/logos/main/swapped-3.png"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
